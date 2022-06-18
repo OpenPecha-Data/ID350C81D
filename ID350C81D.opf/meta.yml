@@ -1,0 +1,37 @@
+id: ID350C81D
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:22:25.508060'
+last_modified: '2022-06-18T20:22:25.508072'
+parser: null
+source_metadata:
+  title: The Mirror Illuminating the Royal Genealogies
+  author: bla ma dam pa bsod nams rgyal mtshan/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-02-02); revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the Sa skya'i
+    dpe rnying bsdu sgrig u lhan. (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:sa skya'i dpe rnying bsdu sgrig u lhan/ (eds)
+  text_witnesses: https://sakyaresearch.org/sources/3829
+  bases:
+    2b3e:
+      title: The Mirror Illuminating the Royal Genealogies
+      order: 1
+      base_file: 2b3e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
